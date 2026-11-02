@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  ![Status](https://img.shields.io/badge/Status-Concluído-success)
-  ![Categoria](https://img.shields.io/badge/Categoria-Aplicação%20Web-blue)
-  ![Plataforma](https://img.shields.io/badge/Plataforma-Web-informational)
+  [Status](https://img.shields.io/badge/Status-Concluído-success)
+  [Categoria](https://img.shields.io/badge/Categoria-Aplicação%20Web-blue)
+  [Plataforma](https://img.shields.io/badge/Plataforma-Web-informational)
 </p>
 
 ---
