@@ -1,236 +1,104 @@
 # SICON — Sistema Integrado de Gestão Condominial
 
-**Uma solução digital para modernizar, centralizar e facilitar a gestão condominial.**
+<p align="center">
+  <strong>Uma solução digital voltada à gestão e organização de condomínios.</strong>
+</p>
 
-[**Acessar aplicação online →**](https://sicon-sigc.vercel.app)
-
-
-\
-
+<p align="center">
+  <a href="https://sicon-sigc.vercel.app/">Acessar aplicação</a>
+</p>
 
 ---
 
 ## 📌 Sobre o projeto
 
-O **SICON (Sistema Integrado de Gestão Condominial)** é uma aplicação web desenvolvida para centralizar e otimizar processos administrativos e operacionais relacionados à gestão de condomínios.
+O **SICON (Sistema Integrado de Gestão Condominial)** é uma aplicação web desenvolvida com o objetivo de oferecer um ambiente digital para gestão de condomínios.
 
-A plataforma reúne diferentes áreas de gerenciamento em um ambiente digital, proporcionando uma experiência organizada, intuitiva e acessível.
+A plataforma possui acesso protegido por autenticação e foi concebida para centralizar o acesso ao ambiente de gestão condominial, proporcionando uma experiência digital organizada e acessível.
 
-O sistema foi concebido para auxiliar na administração das atividades condominiais, facilitar o acesso às informações e contribuir para uma gestão mais eficiente.
-
-**Status: projeto concluído e publicado.**
+O projeto busca unir tecnologia, organização e usabilidade para contribuir com a modernização dos processos relacionados à administração de condomínios.
 
 ## 🎯 Objetivos
 
-- Centralizar informações e processos da administração condominial.
-- Facilitar o acompanhamento das atividades administrativas.
-- Organizar informações financeiras e operacionais.
-- Melhorar a comunicação entre administração e moradores.
-- Simplificar o acesso às funcionalidades do sistema.
-- Oferecer uma experiência digital moderna e intuitiva.
+- Disponibilizar um ambiente digital de gestão condominial.
+- Oferecer acesso autenticado aos usuários.
+- Proporcionar uma interface intuitiva e organizada.
+- Facilitar o acesso às ferramentas de gestão.
+- Contribuir para a modernização da administração condominial.
 
-## ⚙️ Funcionalidades e módulos
+## 🔐 Autenticação e acesso
 
-O SICON contempla áreas destinadas à organização e ao gerenciamento de diferentes atividades condominiais.
+A aplicação apresenta uma área de acesso protegido, contemplando:
 
-### 1. Painel administrativo
+- Tela de autenticação por e-mail e senha.
+- Acesso à plataforma mediante credenciais.
+- Opção de criação de conta.
+- Controle de acesso ao ambiente de gestão.
 
-- Visão geral das informações do sistema.
-- Indicadores para acompanhamento.
-- Acesso organizado aos módulos.
-- Centralização das principais informações.
+**Observação:** a recuperação de senha por e-mail não está habilitada no ambiente público consultado.
 
-### 2. Gestão financeira
+## 🖥️ Aplicação online
 
-- Área de acompanhamento financeiro.
-- Organização de receitas e despesas.
-- Visualização de indicadores financeiros.
-- Apoio ao controle administrativo.
+Acesse a versão publicada:
 
-### 3. Gestão de moradores
+**https://sicon-sigc.vercel.app/**
 
-- Organização dos dados dos moradores.
-- Centralização de informações das unidades.
-- Apoio à administração cadastral.
+O acesso às funcionalidades internas depende de autenticação e de uma conta autorizada.
 
-### 4. Gestão de funcionários e prestadores
+## 🧩 Características do projeto
 
-- Organização de informações dos funcionários.
-- Gerenciamento de dados de prestadores de serviços.
-- Centralização de informações operacionais.
+- Aplicação web com acesso protegido.
+- Interface de autenticação.
+- Organização voltada à gestão condominial.
+- Ambiente digital centralizado.
+- Estrutura preparada para evolução e expansão funcional.
 
-### 5. Comunicação
+## 🛠️ Tecnologias e arquitetura
 
-- Organização de comunicados e avisos.
-- Centralização de informações.
-- Apoio à comunicação entre administração e moradores.
+O projeto deve ser documentado conforme as dependências e configurações efetivamente presentes em seu código-fonte.
 
-### 6. Reservas e espaços compartilhados
+As tecnologias, bibliotecas, banco de dados, serviços de autenticação e infraestrutura utilizados devem ser identificados a partir dos arquivos de configuração e da implementação do sistema.
 
-- Organização de reservas.
-- Gerenciamento de espaços de uso coletivo.
-- Centralização de solicitações.
+## 🚀 Execução local
 
-### 7. Assembleias e votações
+Para executar o projeto em ambiente de desenvolvimento, siga as instruções correspondentes ao gerenciador de pacotes e às configurações presentes no repositório.
 
-- Organização de assembleias.
-- Acompanhamento de votações.
-- Apoio à organização de decisões condominiais.
+Fluxo geral:
 
-### 8. Tarefas e atividades
+1. Clone o repositório.
+2. Acesse a pasta do projeto.
+3. Instale as dependências.
+4. Configure as variáveis de ambiente necessárias.
+5. Execute o servidor de desenvolvimento.
 
-- Organização de atividades administrativas.
-- Acompanhamento de tarefas.
-- Controle de demandas operacionais.
+**Importante:** consulte o arquivo `.env.example` e a documentação técnica do projeto, caso disponíveis. Nunca compartilhe credenciais, tokens ou arquivos `.env` com informações privadas.
 
-### 9. Eventos
+## 🔒 Segurança
 
-- Organização de eventos e atividades.
-- Centralização de compromissos.
-- Apoio ao planejamento da rotina condominial.
+O acesso à aplicação é protegido por autenticação.
 
-### 10. Obrigações legais
+As configurações de segurança, permissões, sessões e proteção de dados devem ser avaliadas de acordo com a implementação efetiva do projeto.
 
-- Organização de informações relacionadas às obrigações legais e administrativas.
-- Apoio ao acompanhamento de responsabilidades do condomínio.
+## 📈 Evolução do projeto
 
-## 🎨 Interface e experiência do usuário
+O SICON representa uma iniciativa de desenvolvimento de solução digital para o segmento de gestão condominial, com possibilidade de evolução contínua em funcionalidades, experiência do usuário, arquitetura e recursos administrativos.
 
-O desenvolvimento do SICON considera princípios de UI/UX Design, arquitetura da informação e usabilidade.
+## 👨‍💻 Desenvolvimento
 
-Entre os aspectos da experiência estão:
+Projeto desenvolvido por **Rodrigo Elias Alfama de Mello**, como parte de seu trabalho com desenvolvimento web e criação de soluções digitais.
 
-- Interface moderna e organizada.
-- Navegação intuitiva.
-- Hierarquia visual das informações.
-- Organização dos módulos por finalidade.
-- Apresentação estruturada de indicadores.
-- Experiência consistente entre as áreas da aplicação.
+## 📬 Contato
 
-## 🛠️ Tecnologias
-
-As tecnologias devem ser confirmadas de acordo com as dependências e configurações presentes no código-fonte do projeto.
-
-Stack de referência:
-
-- React
-- Next.js
-- TypeScript
-- Tailwind CSS
-- JavaScript
-- HTML5
-- CSS3
-
-## 💻 Como executar o projeto localmente
-
-### Pré-requisitos
-
-- Node.js instalado.
-- Git instalado.
-- Gerenciador de pacotes compatível com o projeto.
-
-### 1. Clonar o repositório
-
-```bash
-git clone https://github.com/RodrigoElias-Mello/SICON.git
-```
-
-### 2. Entrar na pasta do projeto
-
-```bash
-cd SICON
-```
-
-### 3. Instalar as dependências
-
-Com npm:
-
-```bash
-npm install
-```
-
-Ou com pnpm:
-
-```bash
-pnpm install
-```
-
-### 4. Iniciar a aplicação
-
-Com npm:
-
-```bash
-npm run dev
-```
-
-Ou com pnpm:
-
-```bash
-pnpm dev
-```
-
-### 5. Acessar pelo navegador
-
-```text
-http://localhost:3000
-```
-
-> Os comandos devem corresponder aos scripts definidos no `package.json` e ao gerenciador de pacotes utilizado no projeto.
-
-## 📁 Estrutura do projeto
-
-A estrutura abaixo é uma referência comum para aplicações Next.js. A organização real pode apresentar diferenças.
-
-```text
-SICON/
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-├── components/
-├── public/
-├── lib/
-├── package.json
-├── tsconfig.json
-├── next.config.mjs
-└── README.md
-```
-
-## 🌐 Aplicação publicada
-
-O SICON está disponível online:
-
-**[https://sicon-sigc.vercel.app](https://sicon-sigc.vercel.app)**
-
-A aplicação pode ser acessada diretamente pelo navegador.
-
-## 🚀 Conhecimentos aplicados
-
-O desenvolvimento do projeto envolve conceitos e práticas de:
-
-- Desenvolvimento de aplicações web.
-- Construção e organização de interfaces.
-- Desenvolvimento baseado em componentes.
-- Arquitetura de aplicações.
-- Experiência do usuário (UX).
-- Design de interfaces (UI).
-- Organização e apresentação de informações.
-- Construção de soluções digitais para necessidades administrativas.
-
-## 👨‍💻 Autor
-
-**Rodrigo Elias Alfama de Mello**
-
-Analista de Sistemas | Desenvolvedor Web | Front-End | Soluções Digitais
-
-| Plataforma | Link                                                                |
-| ---------- | ------------------------------------------------------------------- |
-| GitHub     | [RodrigoElias-Mello](https://github.com/RodrigoElias-Mello)         |
-| LinkedIn   | [Perfil profissional](https://www.linkedin.com/in/rodrigoelias1709) |
-| Portfólio  | [Acessar portfólio](https://portifolio-rodrigo-elias.vercel.app)    |
+- **Portfólio:** https://portifolio-rodrigo-elias.vercel.app
+- **LinkedIn:** https://www.linkedin.com/in/rodrigoelias1709
+- **GitHub:** https://github.com/RodrigoElias-Mello
 
 ---
 
-\<p align="center">
-&#x20; \*\*SICON — Tecnologia, organização e eficiência para a gestão condominial.\*\*
-\</p>
+<p align="center">
+  <strong>SICON — Sistema Integrado de Gestão Condominial</strong>
+</p>
+
+<p align="center">
+  Desenvolvido por Rodrigo Elias.
+</p>
